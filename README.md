@@ -1,9 +1,9 @@
 ## Funcionalidades
 - Lê um ficheiro de vocabulário
-- Divide texto em palavras
-- Calcula distância entre palavras
-- Sugere correções para palavras erradas
-- Mostra erros ortográficos num texto
+- Divide um dado texto em palavras
+- Calcula a distância entre palavras
+- Sugere correções para as palavras erradas
+- Mostra os erros ortográficos num texto
 
 ## Ficheiros
 - main.py → funções principais
